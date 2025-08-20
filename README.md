@@ -1,5 +1,6 @@
 # Tree-Like-PIN
 This repository provides the code and data of the article Tree-Like Pairwise Interaction Network (PIN)
+by Ronald Richman, Salvatore Scognamiglio and Mario W. Wuthrich
 
 Modeling feature interactions in tabular data remains a key challenge in predictive modeling, 
 for example, as used for insurance pricing. This paper proposes the Tree-like Pairwise Interaction 
